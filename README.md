@@ -34,7 +34,7 @@ I enjoy building products from scratch, solving complex problems, and staying on
 ---
 
 💬 **Let’s Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupesh_Jadhav-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rupeshjadhav)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupesh_Jadhav-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rupesh-jadhav-126624100/)  
 [![GitHub](https://img.shields.io/badge/GitHub-myprivateproject02-black?style=for-the-badge&logo=github)](https://github.com/myprivateproject02)  
 📧 **Email:** jadhavrupesh22@gmail.com  
 
