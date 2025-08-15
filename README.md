@@ -25,7 +25,7 @@ I enjoy building products from scratch, solving complex problems, and staying on
 ---
 
 ### 📌 Featured Projects
-- **[BTL King](https://github.com/myprivateproject02)** – Multi-module hotel booking app in Flutter with Melos & Firebase  
+- **[BTL King]** – Multi-module hotel booking app in Flutter with Melos & Firebase  
 - **Gemini Bot** – Chat with Google Gemini API using Flutter BLoC & Dio  
 - **VestaAODM** – Airport duty manager app in KMP with Compose & Ktor  
 - **Save Me** – Secure note-taking app in Flutter with Room-DB  
