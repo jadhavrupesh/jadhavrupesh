@@ -7,7 +7,7 @@ I enjoy building products from the ground up, solving complex engineering challe
 
 I specialize in **Android (Kotlin, Java)**, **Flutter**, and **Kotlin Multiplatform (KMP)**, enabling me to build for multiple platforms efficiently. My professional experience includes payment gateway integrations (Razorpay), maps and localization (Google Maps/Translate), real-time communication (Agora, WebSockets), and secure data storage (Room, Firebase). Beyond frontend and mobile work, I have backend exposure using **Ktor** and **Firebase**, and I’ve designed **CI/CD pipelines** with Jenkins and Codemagic for automated delivery. I am also proficient in **VAPT hardening**, code reviews, and performance optimization.
 
-Recognized for my problem-solving mindset, I’ve built and optimized solutions that balance innovation with reliability. I actively explore new technologies like **Compose Multiplatform** and **state management patterns in Flutter** to stay ahead in the fast-moving mobile ecosystem.
+Recognized for my problem-solving mindset, I’ve built and optimized solutions that balance innovation with reliability. I actively explore new technologies like **Compose Multiplatform** and **state management patterns** to stay ahead in the fast-moving mobile ecosystem.
 
 ---
 
